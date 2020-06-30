@@ -26,6 +26,15 @@ a {
 	margin-right: 100px;
 }
 
+.underline {
+	transition: 700ms;
+	border-bottom: 1px solid transparent;
+}
+
+.underline:hover {
+	border-color: #000000;
+}
+
 .picture {
 	width: 450px;
 }
