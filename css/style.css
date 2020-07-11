@@ -39,3 +39,8 @@ a {
 	width: 450px;
 }
 
+@media (max-width:900px)  {
+	.profile{
+		flex-direction: column-reverse;
+	}
+}
